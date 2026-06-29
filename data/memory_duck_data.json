@@ -1,0 +1,30 @@
+{
+  "version": "1.0",
+  "bitmap_size": 8192,
+  "nodes": [
+    {
+      "text": "公司年会定在12月25号，地点国际会议中心3楼",
+      "category": "通用",
+      "workspace": "ws_mem",
+      "strength": 100,
+      "edges": [],
+      "source": "",
+      "created_at": 1782405821.5244532,
+      "updated_at": 1782405821.5244532,
+      "last_accessed": 1782406318.8227851,
+      "access_count": 3,
+      "learned_at": "2026-06-26T00:43:41",
+      "updated_at_iso": "2026-06-26T00:43:41",
+      "last_accessed_at": "2026-06-26T00:51:58",
+      "session_id": "20260626-004341-2646",
+      "updated_by_session": ""
+    }
+  ],
+  "learn_count": 1,
+  "query_count": 4,
+  "search_count": 1,
+  "token_savings": 0,
+  "current_workspace": "ws_mem",
+  "auto_perceive": true,
+  "updated_at": "2026-06-26T00:52:35.089897"
+}
